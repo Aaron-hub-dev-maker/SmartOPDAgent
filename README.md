@@ -172,8 +172,11 @@ This project is licensed under the MIT License.
 ## Contact
 For queries or collaboration:
 
+- 📧 aaroncherian10@gmail.com
+- GitHub: @Aaron-hub-dev-maker
 - 📧 arunvijo2004@gmail.com
 - GitHub: @arunvijo04
+
 
 
 ---
